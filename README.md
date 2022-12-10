@@ -28,3 +28,10 @@ Winning vote Count: 272,892
 Winning Percentage: 73.8%
 
 ## Challenge Overview
+In this challenge, We made use of a very popular and useful tool/programming language- Python, to do an analysis of 
+a data file provided to us in the .csv format. We used the popular text editor Visual Code to write the python program
+and then read the .csv file provided and at the same time write our results to a .txt file. This .csv file included data 
+from an election, esentially the results of it and we had the task of analyzing it thoroughly row by row and column by column 
+to compute and summarize the election results and in the end, declare our winner!
+
+
