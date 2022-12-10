@@ -34,4 +34,17 @@ and then read the .csv file provided and at the same time write our results to a
 from an election, esentially the results of it and we had the task of analyzing it thoroughly row by row and column by column 
 to compute and summarize the election results and in the end, declare our winner!
 
+## Challenge Summary 
+In this challenge, we were assisting a Colorado board of elections employee, Tom, in an election audit of the tabulated results 
+for a U.S. congressional precinct in Colorado. We were tasked with reporting the total number of votes cast, the total number of 
+votes for each candidate, the percentage of votes for each candidate, and the winner of the election based on the popular vote. 
+This task is usually done in Excel, but Tom's manager wanted to know if there's a way to automate the process using Python. 
+If this audit is done successfully with Python, the code me and Tom write will be used to audit not only other congressional 
+districts, but also senatorial districts and local elections. There are three primary voting methods that me and Tom will take into account, 
+mail-in ballots, punch cards, and direct recording electronic, or DRE, counting machines. Mail-in ballots are typically hand counted at the 
+central office. Punch cards are collected and then fed into a machine that tabulates vote totals and sends the results to the central office. 
+Finally, memory cards from DRE counting machines are sent to the central office and read by a computer. Altogether, the votes cast by these 
+three methods will determine the final election results. After the votes are counted, our job was to generate a vote count report to certify 
+this U.S. congressional race.
+
 
