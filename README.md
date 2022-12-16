@@ -16,6 +16,7 @@ it flexibly in any other election, and with other election results datasets.
 
 ## Resources
 -Data Source: election_results.csv
+
 -Software: Python 3.6.1, Visual Studio Code, 1.70.2
 
 ## Summary
