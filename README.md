@@ -20,35 +20,35 @@ it flexibly in any other election, and with other election results datasets.
 -Software: Python 3.6.1, Visual Studio Code, 1.70.2
 
 ## Summary
-The analysis of the election results produced the following:
+### The analysis of the election results produced the following:
 
-# Total Votes cast in the congressional election: 369,711
+* Total Votes cast in the congressional election: 369,711
 
-Votes for each county (in % and in numbers):
+### Votes for each county (in % and in numbers):
 
 * Jefferson: 10.5% (38,855)
 
-# Denver: 82.8% (306,055)
+* Denver: 82.8% (306,055)
 
-# Arapahoe: 6.7% (24,801)
+* Arapahoe: 6.7% (24,801)
 
-# Largest County Turnout: Denver
+* Largest County Turnout: Denver
 
-Votes for each candidate (in % and in numbers):
+### Votes for each candidate (in % and in numbers):
 
-# Charles Casper Stockham: 23.0% (85,213)
+* Charles Casper Stockham: 23.0% (85,213)
 
-# Diana DeGette: 73.8% (272,892)
+* Diana DeGette: 73.8% (272,892)
 
-# Raymon Anthony Doane: 3.1% (11,606)
+* Raymon Anthony Doane: 3.1% (11,606)
 
-The winner of the election:
+### The winner of the election:
 
-Winner: Diana DeGette
+* Winner: Diana DeGette
 
-Winning vote Count: 272,892
+* Winning vote Count: 272,892
 
-Winning Percentage: 73.8%
+* Winning Percentage: 73.8%
 
 ## Challenge Overview
 In this challenge, We made use of a very popular and useful tool/programming language- Python, to do an analysis of 
