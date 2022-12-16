@@ -26,7 +26,7 @@ The analysis of the election results produced the following:
 
 Votes for each county (in % and in numbers):
 
-*Jefferson: 10.5% (38,855)
+* Jefferson: 10.5% (38,855)
 
 # Denver: 82.8% (306,055)
 
