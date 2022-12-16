@@ -14,7 +14,7 @@ We were given the task of completing the election audit of a recent local congre
 -Software: Python 3.6.1, Visual Studio Code, 1.70.2
 
 ## Summary
-The analysis of the election results produced the following:
+The analysis of the election results produced the following:\n
 Total Votes: 369,711
 
 Votes for each candidate (in % and in numbers):
