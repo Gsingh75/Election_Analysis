@@ -21,11 +21,13 @@ it flexibly in any other election, and with other election results datasets.
 ## Summary
 The analysis of the election results produced the following:
 
-Total Votes: 369,711
+Total Votes cast in the congressional election: 369,711
 
 Votes for each candidate (in % and in numbers):
 Charles Casper Stockham: 23.0% (85,213)
+
 Diana DeGette: 73.8% (272,892)
+
 Raymon Anthony Doane: 3.1% (11,606)
 
 The winner of the election:
