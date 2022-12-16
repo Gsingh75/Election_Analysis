@@ -9,12 +9,15 @@ We were given the task of completing the election audit of a recent local congre
 4. To calculate the total number of votes each candidate won.
 5. To figure out who was the winner of the election based on the popular vote? 
 
+After successfully finishing this project, 
+
 ## Resources
 -Data Source: election_results.csv
 -Software: Python 3.6.1, Visual Studio Code, 1.70.2
 
 ## Summary
-The analysis of the election results produced the following:\n
+The analysis of the election results produced the following:
+
 Total Votes: 369,711
 
 Votes for each candidate (in % and in numbers):
