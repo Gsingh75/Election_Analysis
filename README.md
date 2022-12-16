@@ -22,7 +22,7 @@ it flexibly in any other election, and with other election results datasets.
 ## Summary
 The analysis of the election results produced the following:
 
-Total Votes cast in the congressional election: 369,711
+# Total Votes cast in the congressional election: 369,711
 
 Votes for each county (in % and in numbers):
 
@@ -32,7 +32,7 @@ Votes for each county (in % and in numbers):
 
 # Arapahoe: 6.7% (24,801)
 
-Largest County Turnout: Denver
+# Largest County Turnout: Denver
 
 Votes for each candidate (in % and in numbers):
 
