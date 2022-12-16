@@ -1,15 +1,18 @@
 # Election_Analysis
 
 ## Project Overview
-We were given the task of completing the election audit of a recent local congressional election in the state of Colorado, which included the following tasks:
+We were given the task of completing the election audit of a recent local congressional election in the state of Colorado, which included the following primary tasks:
 
 1. To compute the total number of votes cast in the election.
 2. A complete list of candidates who received votes.
 3. To find out the percentage of votes each candidate won.
 4. To calculate the total number of votes each candidate won.
 5. To figure out who was the winner of the election based on the popular vote? 
+6. To figure out the number and percentage of votes for each county.
+7. Which county has the largest voter turnout?
 
-After successfully finishing this project, 
+After successfully finishing this project, we can provide our code to the election commision, who can then make slight changes and or adjustments to it and use
+it flexibly in any other election, and with other election results datasets. 
 
 ## Resources
 -Data Source: election_results.csv
