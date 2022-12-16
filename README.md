@@ -25,21 +25,21 @@ Total Votes cast in the congressional election: 369,711
 
 Votes for each county (in % and in numbers):
 
-Jefferson: 10.5% (38,855)
+# Jefferson: 10.5% (38,855)
 
-Denver: 82.8% (306,055)
+# Denver: 82.8% (306,055)
 
-Arapahoe: 6.7% (24,801)
+# Arapahoe: 6.7% (24,801)
 
 Largest County Turnout: Denver
 
 Votes for each candidate (in % and in numbers):
 
-Charles Casper Stockham: 23.0% (85,213)
+# Charles Casper Stockham: 23.0% (85,213)
 
-Diana DeGette: 73.8% (272,892)
+# Diana DeGette: 73.8% (272,892)
 
-Raymon Anthony Doane: 3.1% (11,606)
+# Raymon Anthony Doane: 3.1% (11,606)
 
 The winner of the election:
 
